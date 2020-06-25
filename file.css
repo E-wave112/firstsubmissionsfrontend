@@ -1,0 +1,61 @@
+
+html {
+    font-size:16px;
+
+
+}
+
+
+body {
+    font-size: 16px;
+    position: absolute;
+    margin-left: 20%;
+    margin-right: 30%;
+    margin-top: 7%;
+    font-family:Karla, sans-serif; !important
+}
+
+h1 {
+    color:darkcyan;
+
+}
+h2 {
+  color:hsl(71, 73%, 54%);
+}
+
+.gridcontainer {
+         color:white;
+         display:inline-grid;
+         grid-column-width:20px;
+         grid-auto-flow: column;
+         grid-column-gap:Spx;
+         background-color:hsl(179, 62%, 43%);
+         text-align:center;
+         width:120%;
+}
+
+.grid2 {
+
+
+    background-color:lightcyan;
+}
+
+a {
+
+    text-decoration:none;
+}
+
+.mach {
+    text-align:center;
+    line-height:1.5;
+    width:120%;
+
+}
+
+#butt {
+    border-radius: 6px;
+    height:17%;
+}
+.add {
+    font-size: 18px;
+}
